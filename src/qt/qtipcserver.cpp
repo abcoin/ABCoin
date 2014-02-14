@@ -1,4 +1,4 @@
-// Copyright (c) 2009-2012 The Bitcoin developers
+// Copyright (c) 2009-2012 The Abcoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file license.txt or http://www.opensource.org/licenses/mit-license.php.
 
@@ -33,7 +33,7 @@ static void ipcThread(void* pArg)
     IMPLEMENT_RANDOMIZE_STACK(ipcThread(pArg));
 	
     // Make this thread recognisable as the GUI-IPC thread
-    RenameThread("bitcoin-gui-ipc");
+    RenameThread("abcoin-gui-ipc");
 	
     try
     {

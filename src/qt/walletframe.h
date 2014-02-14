@@ -1,8 +1,8 @@
 /*
- * Qt4 bitcoin GUI.
+ * Qt4 abcoin GUI.
  *
  * W.J. van der Laan 2011-2012
- * The Bitcoin Developers 2011-2013
+ * The Abcoin Developers 2011-2013
  */
 #ifndef WALLETFRAME_H
 #define WALLETFRAME_H
